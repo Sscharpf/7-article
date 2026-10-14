@@ -1,5 +1,6 @@
 html {
     background-color: skyblue;
+    font-family: "Crimson Pro", serif;
 }
 
 .wrapper {
@@ -9,28 +10,53 @@ html {
 
 .site-header {
     background-color: violet;
+    padding: 10px;
+    margin-bottom: 20px;
 }
 
 .site-main {
     background-color:khaki;
+    padding: 10px;
+    margin-bottom: 20px;
 }
 
 .academics {
     background-color: gold;
+    padding: 10px;
+    margin-bottom: 10px;
 }
 
 .research {
     background-color: gold;
+    padding: 10px;
+    margin-bottom: 10px;
 }
 
 .entrepreneurship {
     background-color: gold;
+    padding: 10px;
+    margin-bottom: 10px;
 }
 
 .call-out {
     background-color: pink;
+    padding: 10px;
+    margin-bottom: 20px;
+    color: purple;
+    font-style: italic;
 }
 
 .site-footer {
     background-color: aquamarine;
+    padding: 10px;
+}
+
+.links {
+    color: black;
+}
+
+
+.address {
+    border-top: 3px solid black;
+    padding: 10px;
 }
