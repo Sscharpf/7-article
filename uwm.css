@@ -1,0 +1,36 @@
+html {
+    background-color: skyblue;
+}
+
+.wrapper {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.site-header {
+    background-color: violet;
+}
+
+.site-main {
+    background-color:khaki;
+}
+
+.academics {
+    background-color: gold;
+}
+
+.research {
+    background-color: gold;
+}
+
+.entrepreneurship {
+    background-color: gold;
+}
+
+.call-out {
+    background-color: pink;
+}
+
+.site-footer {
+    background-color: aquamarine;
+}
